@@ -3,7 +3,7 @@ package app;
 import java.util.Scanner;
 
 public class Main {
-	//main
+	//main file
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         TaskManager manager = new TaskManager();
